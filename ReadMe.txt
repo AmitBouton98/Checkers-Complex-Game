@@ -3,9 +3,9 @@ Noam Churi 207652744
 Ron Azar 314779448
 
 Youtube link presentation:  https://www.youtube.com/watch?v=qhlzDiCvEOo
-Moodle link presentation:  https://moodle.ruppin.ac.il/pluginfile.php/183195/assignsubmission_file/submission_files/198544/presentation.rar?forcedownload=1 
+Moodle link presentation:  https://drive.google.com/drive/folders/1gD9OsOdwTWPTt-Y9ODy_LmfWN3Pon3xI?usp=sharing  
 Youtube link Gameplay:  https://youtu.be/9gozPqJcZg8 
-Moodle link Gameplay:  https://moodle.ruppin.ac.il/pluginfile.php/183195/assignsubmission_file/submission_files/198544/gameplay.rar?forcedownload=1 
+Moodle link Gameplay:  https://drive.google.com/drive/folders/1gD9OsOdwTWPTt-Y9ODy_LmfWN3Pon3xI?usp=sharing  
 Git link: https://github.com/AmitBouton98/Checkers-Complex-Game 
 Drive : https://drive.google.com/drive/folders/1gD9OsOdwTWPTt-Y9ODy_LmfWN3Pon3xI?usp=sharing
 
