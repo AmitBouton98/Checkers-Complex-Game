@@ -310,6 +310,7 @@ class Board:
     def _traverse_forward(self, start, stop, step, color, col, skipped=[]):
         moves = {}
         last = []
+        knight_color = SPECIAL_BLUE if color == BLUE else SPECIAL_RED
         for r in range(start, stop, step):
             if col < 0 or col >= COLS:
                 break
@@ -328,15 +329,16 @@ class Board:
                     moves[(r, col)] = last
 
                 if last:
+
                     if step == -1:
                         row = max(r - 3, -1)
                     else:
                         row = min(r + 3, ROWS)
                     moves.update(self._traverse_forward(r + step, row, step, color, col, skipped=last))
                 break
-            elif isinstance(current, Piece) and current.color == color:
+            elif isinstance(current, Piece) and (current.color == color or current.color == knight_color):
                 break
-            elif isinstance(current, Piece) and current.color != color and not current.knight:
+            elif isinstance(current, Piece) and (current.color != color or current.color != knight_color) and not current.knight:
                 last = [current]
             else:
                 break
