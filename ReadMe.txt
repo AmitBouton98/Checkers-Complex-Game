@@ -1,9 +1,44 @@
-Algo:
-1. Alpha-Beta Pruning
-2. Minimax - determine the next move for the computer based on some rules :
-    2.1. If there is enemy that can eat computer soliders, so don't move ( if he have another option to do )
-    2.2. If it safe so move based on Alpha-Beta Pruning Minimax Algo
-    2.3. If he can eat so eat
-    2.4. If the enemy can earn point so place a box
+Amit bouton 207005323
+Noam Churi 207652744
+Ron Azar 314779448
 
-3. Algo in should_place_box  that determine if should place box
+משחק דמקה 12x12
+משחק דמקה מבוסס פייתון עם לוח בגודל 12x12, הכולל אבירים מיוחדים ומכונאי ייחודי להנחת קופסאות.
+
+מאפיינים
+לוח 12x12 למשחק מורחב
+אבירים מיוחדים עם תנועה ייחודית
+ הצבת קופסאות 
+יריב  משתמש באלגוריתם Minimax עם גיזום אלפא-ביתא
+ממשק Pygame ידידותי למשתמש
+
+
+Required Libraries :
+pip install pygame
+
+Clone the repository : 
+git clone https://github.com/AmitBouton98/Checkers-Complex-Game.git
+cd Checkers-Complex-Game
+
+
+חוקי המשחק
+משחק מבוסס תורות: כל תור שחקן אחר משחק.
+אבירים מיוחדים: לכל שחקן יש סוס עם יכולות תנועה ייחודיות.
+ הנחת קופסאות: שחקנים יכולים להניח קופסאות על הלוח כדי לחסום את הכלים של היריב.
+תנאי זכייה:
+להגיע ל-3 נקודות על ידי הזזת חלקים לצד הנגדי.
+לכבוש את כל החלקים של היריב.
+קבל יותר נקודות כאשר הטיימר יגמר.
+
+בקרת משחק:
+לחיצת עכבר: בחר והזז חלקים.
+לחצן לוח: הצב תיבה כאשר הכפתור פעיל.
+יריב מחשב : 
+המחשב משתמש באלגוריתם Minimax עם גיזום אלפא-ביתא כדי לבצע מהלכים אסטרטגיים.
+
+מבנה קוד
+checkers_game.py: קובץ המשחק הראשי המכיל את כל ההיגיון והגדרות Pygame.
+
+
+
+
