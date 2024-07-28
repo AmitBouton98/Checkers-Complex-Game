@@ -2,6 +2,13 @@ Amit bouton 207005323
 Noam Churi 207652744
 Ron Azar 314779448
 
+Youtube link presentation:  https://www.youtube.com/watch?v=qhlzDiCvEOo
+Moodle link presentation:  https://moodle.ruppin.ac.il/pluginfile.php/183195/assignsubmission_file/submission_files/198544/presentation.rar?forcedownload=1 
+Youtube link Gameplay:  https://youtu.be/9gozPqJcZg8 
+Moodle link Gameplay:  https://moodle.ruppin.ac.il/pluginfile.php/183195/assignsubmission_file/submission_files/198544/gameplay.rar?forcedownload=1 
+Git link: https://github.com/AmitBouton98/Checkers-Complex-Game 
+
+
 משחק דמקה 12x12
 משחק דמקה מבוסס פייתון עם לוח בגודל 12x12, הכולל אבירים מיוחדים ומכונאי ייחודי להנחת קופסאות.
 
