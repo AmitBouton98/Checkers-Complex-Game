@@ -7,7 +7,7 @@ Moodle link presentation:  https://moodle.ruppin.ac.il/pluginfile.php/183195/ass
 Youtube link Gameplay:  https://youtu.be/9gozPqJcZg8 
 Moodle link Gameplay:  https://moodle.ruppin.ac.il/pluginfile.php/183195/assignsubmission_file/submission_files/198544/gameplay.rar?forcedownload=1 
 Git link: https://github.com/AmitBouton98/Checkers-Complex-Game 
-
+Drive : https://drive.google.com/drive/folders/1gD9OsOdwTWPTt-Y9ODy_LmfWN3Pon3xI?usp=sharing
 
 משחק דמקה 12x12
 משחק דמקה מבוסס פייתון עם לוח בגודל 12x12, הכולל אבירים מיוחדים ומכונאי ייחודי להנחת קופסאות.
